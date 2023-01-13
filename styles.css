@@ -4,6 +4,17 @@
   line-height: 24px;
   font-weight: 400;
 
-  color: rgba(255, 255, 255, 0.87);
+  color: #e1e1e1;
   background-color: #242424;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
